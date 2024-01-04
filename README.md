@@ -39,3 +39,7 @@ Vamos criar um **E-commerce**, para a *empresa X* e blablabla
 ### Imagem externa
 
 ![logo PHP](https://logospng.org/download/php/logo-php-1024.png)
+
+## Links interassantes:
+
+[Google](https://www.google.com.br/?hl=pt-BR)
