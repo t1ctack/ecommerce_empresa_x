@@ -47,3 +47,6 @@ Vamos criar um **E-commerce**, para a *empresa X* e blablabla
 [https://www.google.com.br](https://www.google.com.br)
 
 O Melhor do GitHub:https://github.com/t1ctack
+
+[![logo php](https://logospng.org/download/php/logo-php-1024.png)](https://github.com/t1ctack
+)
