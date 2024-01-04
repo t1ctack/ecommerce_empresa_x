@@ -11,3 +11,12 @@ Vamos criar um **E-commerce**, para a *empresa X* e blablabla
 ###### Melhorias do projeto:
 
 **Melhoria 1**, _melhoria 2_
+
+### Linguagens do projeto;
+
+* HTML
+* CSS
+* JavaScript
+* PHP
+* MySQL
+
