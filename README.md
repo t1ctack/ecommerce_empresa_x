@@ -27,4 +27,7 @@ Vamos criar um **E-commerce**, para a *empresa X* e blablabla
     2. desconto especial para grupos de cliente
     3. CSS diferente para grupos de cliente
 2. Integração com outros pagamentos
+    * Pix
+    * Boleto
+    * Cartão
 3. Sistema de bônus primeira compra
