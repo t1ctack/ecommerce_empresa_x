@@ -31,3 +31,7 @@ Vamos criar um **E-commerce**, para a *empresa X* e blablabla
     * Boleto
     * Cartão
 3. Sistema de bônus primeira compra
+
+### Imagem local
+
+![Linguagem de programação pyton](img/png-transparent-python-logo-thumbnail.png)
