@@ -50,3 +50,11 @@ O Melhor do GitHub:https://github.com/t1ctack
 
 [![logo php](https://logospng.org/download/php/logo-php-1024.png)](https://github.com/t1ctack
 )
+
+## Código da função soma
+
+```javascript
+function soma(a, b) {
+    return a + b;
+}
+```
